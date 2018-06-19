@@ -6,7 +6,7 @@ Quantum Solve - Module for solving 1D and 2D waves
     solve the Schrodinger equation and output either the wave function at each 
     time step or just the final wave function
 
-@author: David Ellis (ppyde)
+@author: David Ellis 
 """
 
 import numpy as np
